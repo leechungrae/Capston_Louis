@@ -1,0 +1,36 @@
+item {
+	id: 1
+	name: 'lemon'
+}
+item {
+	id: 2
+	name: 'glasses'
+}
+item {
+	id: 3
+	name: 'coke'
+}
+item {
+	id: 4
+	name: 'cider'
+}
+item{
+	id: 5
+	name: 'apple'
+}
+item{
+	id: 6
+	name: 'banana'
+}
+item{
+	id: 7
+	name: 'trash'
+}
+item{
+	id: 8
+	name: 'watch'
+}
+item{
+	id: 9
+	name: 'ebi'
+}
